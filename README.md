@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 <br />
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxunnn&show_icons=true&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxunnn&layout=compact&theme=transparent)
 
 
 </div>
