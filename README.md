@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 <br />
 <br />
   
- <p>
-<img src="https://github-readme-stats.vercel.app/api?username=jxxunnn&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
-&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxunnn&layout=compact&hide_border=false&card_width=382" height="150px">
 </p>
   
