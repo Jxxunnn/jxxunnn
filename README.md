@@ -16,16 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Hello, I'm June👏
-
-<img src="https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif" />
-  
-<br />
-<br />
-<br />
-<br />
-
-## ✨ Front-end Stack ✨
+# ✨ Front-end Stack ✨
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
