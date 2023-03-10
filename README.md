@@ -41,3 +41,8 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@jxxunnn" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br/>
 [기술 블로그 구경가기](https://velog.io/@jxxunnn)  🏃🏻‍♀️💨
+
+
+<br/>
+[배포중인 서비스 구경가기](https://mbti-detective.netlify.app/)  🏃🏻‍♀️💨
+
