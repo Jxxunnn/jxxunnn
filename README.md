@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://naughty-ya.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Deplay-너%20T야%3F%20AI가%20판별해준다-0A040F"/>  
+    <img src="https://img.shields.io/badge/Deploy-너%20T야%3F%20AI가%20판별해준다-0A040F"/>  
   </a>
 </div>
 
