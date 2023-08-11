@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 ### 🔍 최근 관심있는 기술스택은 
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=%2361DAFB">  
 </div>
 
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
