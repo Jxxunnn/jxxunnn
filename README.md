@@ -26,18 +26,15 @@ Here are some ideas to get you started:
 
 ### 🔍 최근 관심있는 기술스택은 
 <div>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=%2361DAFB">  
+    <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white">  
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+
+
 </div>
 
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
-- [[회고] Google 스프린트 협업 회고](https://velog.io/@jxxunnn/Google-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
-- [[최적화] 모듈 번들러 사용하여 웹 성능 최적화하기](https://velog.io/@jxxunnn/%EB%AA%A8%EB%93%88-%EB%B2%88%EB%93%A4%EB%9F%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0)
-- [[React] React Hook으로 Blocking rendering 해결하기](https://velog.io/@jxxunnn/React-Hook%EC%9C%BC%EB%A1%9C-Blocking-rendering-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-- [[최적화] styled-component 환경에서 로컬 Font 적용하기](https://velog.io/@jxxunnn/TypeScript-React-styled-component-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%A1%9C%EC%BB%AC-Font-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
-- [[회고] 공동 책 집필 하는 방법](https://velog.io/@jxxunnn/%EA%B3%B5%EB%8F%99-%EC%B1%85-%EC%A7%91%ED%95%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
-- [[환경] 협업을 위한 ESLint, Prettier 세팅하기](https://velog.io/@jxxunnn/%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-ESLint-Prettier-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jxxunnn)](https://velog.io/@jxxunnn)
 
 <a href="https://velog.io/@jxxunnn" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br/>
 [기술 블로그 구경가기](https://velog.io/@jxxunnn)  🏃🏻‍♀️💨
