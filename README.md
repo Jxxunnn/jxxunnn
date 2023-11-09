@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white">  
 </div>
 
 ### 🔍 최근 관심있는 기술스택은 
 <div>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
-    <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white">  
+  
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 
 
