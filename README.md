@@ -19,19 +19,16 @@ Here are some ideas to get you started:
 > 한 문장에 하나의 주장을 담아서, 간략한 문장으로 표현하고자 노력합니다.
 
 ### 🎯 최근 집중하는 기술스택은 
-<div>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
+<div>  
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white">  
+   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" />     
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
 </div>
 
 ### 🔍 최근 관심있는 기술스택은 
 <div>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />  
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
-
-
 </div>
 
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
@@ -41,6 +38,12 @@ Here are some ideas to get you started:
 [기술 블로그 구경가기](https://velog.io/@jxxunnn)  🏃🏻‍♀️💨
 
 ### 🌞 배포중인 서비스
+
+<div>
+  <a href="https://anotherme.today/" target="_blank">
+    <img src="https://img.shields.io/badge/Deploy-다양한%20나를%20키우는%20AnotherMe-2877ea"/>  
+  </a>
+</div>
 
 <div>
   <a href="https://naughty-ya.netlify.app/" target="_blank">
