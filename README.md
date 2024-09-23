@@ -40,12 +40,6 @@ Here are some ideas to get you started:
 ### 🌞 배포중인 서비스
 
 <div>
-  <a href="https://anotherme.today/" target="_blank">
-    <img src="https://img.shields.io/badge/Deploy-다양한%20나를%20키우는%20AnotherMe-2877ea"/>  
-  </a>
-</div>
-
-<div>
   <a href="https://naughty-ya.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Deploy-너%20T야%3F%20AI가%20판별해준다-0A040F"/>  
   </a>
