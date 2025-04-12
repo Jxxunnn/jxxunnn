@@ -40,14 +40,8 @@ Here are some ideas to get you started:
 ### 🌞 배포중인 서비스
 
 <div>
-  <a href="https://naughty-ya.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Deploy-너%20T야%3F%20AI가%20판별해준다-0A040F"/>  
-  </a>
-</div>
-
-<div>
-  <a href="https://mbti-detective.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Deploy-MBTI%20명탐정%20친구의%20MBTI를%20맞춰보자-DCBC8C"/>
+  <a href="https://tarotnyang.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Deploy-타로냥 | AI%20타로로%20보는%20오늘의%20운세%20&%20무료%20상담-7A6DF1"/>
   </a>
 </div>
 <br/>
