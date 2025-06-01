@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ### 🔍 최근 관심있는 기술스택은 
 <div>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 </div>
 
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
