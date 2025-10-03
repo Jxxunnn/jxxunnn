@@ -34,13 +34,3 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@jxxunnn" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br/>
 [기술 블로그 구경가기](https://velog.io/@jxxunnn)  🏃🏻‍♀️💨
-
-### 🌞 배포중인 서비스
-
-<div>
-  <a href="https://tarotnyang.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Deploy-타로냥 | AI%20타로로%20보는%20오늘의%20운세%20&%20무료%20상담-7A6DF1"/>
-  </a>
-</div>
-<br/>
-
