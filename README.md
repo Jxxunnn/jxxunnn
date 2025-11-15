@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 ### 🎯 최근 집중하는 기술스택은 
 <div>  
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>       
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 </div>
 
 ### 🔍 최근 관심있는 기술스택은 
-<div>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+<div>  
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 </div>
 
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
