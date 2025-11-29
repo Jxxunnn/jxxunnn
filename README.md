@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ## 글쓰기를 좋아하는 개발자 이준근입니다.
 > 43만뷰 [웹소설](https://page.kakao.com/content/54615154)과 Front-end 개발 서적 [DOM - 잡았다, 요 돔!](https://ridibooks.com/books/2773000061?_s=search&_q=%EC%9E%A1%EC%95%98%EB%8B%A4+%EC%9A%94&_rdt_sid=search&_rdt_idx=0)을 집필하였습니다.<br/>
-> `글쓰기/코딩`은 보면 볼수록, 쓰면 쓸수록 나아진다고 생각합니다.<br/>
-> 한 문장에 하나의 주장을 담아서, 간략한 문장으로 표현하고자 노력합니다.
+> 간결한 글쓰기와 단순한 코딩을 추구합니다.
 
 ### 🎯 최근 집중하는 기술스택은 
 <div>  
